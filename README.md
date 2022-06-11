@@ -1,7 +1,3 @@
-REST API GOLANG CRUD - ANIMAL
-- Storage system menggunakan automigrate, maka tidak perlu membuat tahap inisialisasi database seperti mengeksekusi query, membuat Table, dsb. Hal itu dikarenakan method bernama AutoMigrate akan melakukan proses migration terhadap semua entitas yang akan digunakan pada database ketika kode pertama kali dijalankan.
-
-TOOLS
 # REST API GOLANG CRUD - ANIMAL
 ### REST-API-CRUD-GO (GIN FRAMEWORK)-GORM-MYSQL
 
