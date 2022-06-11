@@ -20,7 +20,7 @@ func FindAnimals(c *gin.Context) {
 	}
 }
 
-func FindAnimal(c *gin.Context) { // Get model if exist
+func FindAnimal(c *gin.Context) { 
 	var animal models.Animal
 	db := c.MustGet("db").(*gorm.DB)
 
